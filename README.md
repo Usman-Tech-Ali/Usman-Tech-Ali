@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Usman-Tech-Ali
+# 👋 Hi, I’m Usman-Tech-Ali
 - 👀 I'm keen to delve into and achieve proficiency in the MERN stack.
 - 🌱 I’m currently learning React.js, Node.js.
 - 💞️ I’m looking to collaborate on innovative projects related to development

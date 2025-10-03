@@ -1,6 +1,6 @@
-# 👋 Hey there, I’m Usman-Tech-Ali
-- 👀 **I’m interested in:** Web Development, DSA, ML.
-- 🌱 **I’m currently learning:**  React.js, Node.js.
+# 👋 Hey there, I’m Usman-Tech-Ali, Full Stack Web Developer
+- 👀 **I’m interested in:** Web Development, DSA, ML, AI
+- 🌱 **I’m currently learning:**  Integrating AI,ML models in Web Applications.
 - 🤝 **I’m looking to collaborate on:** Open source and innovative projects, especially those related to web development.
 - 📫 **How to reach me:**
   - **Email:** [Email](mailto:ua067284@gmail.com)

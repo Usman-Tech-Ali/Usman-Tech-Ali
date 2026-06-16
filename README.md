@@ -1,5 +1,12 @@
-# 💫 About Me:
-👨‍💻 I’m currently working on Frontend Development, MERN Stack applications, and AI-powered projects.<br><br>🤝 I’m looking to collaborate on Full-Stack Web Applications, Open Source Projects, and Software Engineering initiatives.<br><br>💡 I’m looking for help with Advanced System Design, Cloud Technologies, and AI Integration.<br><br>🌱 I’m currently learning AI Engineering, Large Language Models (LLMs), and Scalable Backend Architectures.<br><br>💬 Ask me about Node.js, Express.js, MongoDB, REST APIs, MERN Stack, Software Testing, and Software Engineering.<br><br>⚡ Fun fact: I enjoy turning complex software problems into practical solutions and have worked on everything from Event Management Systems to Blood Bank Management Systems.
+# 👋 Hey there, I’m Usman-Tech-Ali, Full Stack Web Developer
+
+
+- 🔭 I’m currently working on Full Stack (MERN, Next.js, NestJS) & AI-based applications
+- 🤝 I’m looking to collaborate on open-source projects and innovative startups
+- 🆘 I’m looking for help with advanced DevOps, Kubernetes, and system design
+- 🌱 I’m currently learning cloud architecture, microservices, and AI integrations
+- 💬 Ask me about React, Node.js, APIs, databases, and deployment
+- ⚡ Fun fact: I enjoy turning complex problems into simple, user-friendly solutions 🚀
 
 
 ## 🌐 Socials:
